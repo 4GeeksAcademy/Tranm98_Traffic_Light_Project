@@ -3,8 +3,6 @@ import React, {useState} from "react";
 //include images into your bundle
 //import rigoImage from "../../img/rigo-baby.jpg";
 
-//create your first component
-import React, { useState } from "react";
 
 const TrafficLight = () => {
   const [active, setActiveLight] = useState(null);
